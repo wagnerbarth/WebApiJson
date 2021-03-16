@@ -1,0 +1,14 @@
+
+[16-Mar-2021 12:28:59 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/barth/public_html/project2MJA/objects/usuario.php on line 48
+[16-Mar-2021 12:28:59 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/barth/public_html/project2MJA/objects/usuario.php on line 49
+[16-Mar-2021 12:28:59 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/barth/public_html/project2MJA/objects/usuario.php on line 50
+[16-Mar-2021 12:28:59 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/barth/public_html/project2MJA/objects/usuario.php on line 51
+[16-Mar-2021 12:28:59 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/barth/public_html/project2MJA/objects/usuario.php on line 52
+[16-Mar-2021 12:28:59 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/barth/public_html/project2MJA/objects/usuario.php on line 53
+[16-Mar-2021 12:29:47 UTC] PHP Notice:  Trying to get property 'email' of non-object in /home/barth/public_html/project2MJA/usuarios/excluirUsuario.php on line 27
+[16-Mar-2021 12:38:52 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/barth/public_html/project2MJA/objects/usuario.php on line 48
+[16-Mar-2021 12:38:52 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/barth/public_html/project2MJA/objects/usuario.php on line 49
+[16-Mar-2021 12:38:52 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/barth/public_html/project2MJA/objects/usuario.php on line 50
+[16-Mar-2021 12:38:52 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/barth/public_html/project2MJA/objects/usuario.php on line 51
+[16-Mar-2021 12:38:52 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/barth/public_html/project2MJA/objects/usuario.php on line 52
+[16-Mar-2021 12:38:52 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/barth/public_html/project2MJA/objects/usuario.php on line 53
